@@ -15,11 +15,11 @@ Overall, this project aims to empower users to take control of their tasks and i
 
 ## Dependencies
 
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- dotenv (for environment variables)
+- React.js
+- React Router
+- react-toastify
+- react-hook-form
+- Tailwind CSS
 
 ## Installation Steps
 1. Clone the repository:
